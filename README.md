@@ -1,5 +1,5 @@
 # About
-This repo is created to document my blockchain journey. This time I'm quite serious about it.
+This repo is created to document my blockchain journey. This time I'm quite serious about it. <br>
 Government of Pakistan is regulating crypto currency, and all the world is after AI. There are business opportunities in this space.
 ## Step 1
 Read some articles online about blockchain
